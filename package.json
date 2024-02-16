@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-cloudinary-file-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.0.1",
+    "dotenv": "^16.4.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.3"
+  }
+}
